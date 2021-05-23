@@ -61,7 +61,11 @@ padding-left: 800px;
 }
 
 
-
+.pays{
+    background-color: #1c2266;
+    border: 2px solid #fff;
+    color: white;
+}
 .rectangle{
     background:#181818;
     left: 2%;
@@ -74,7 +78,7 @@ padding-left: 800px;
 }
 
 .button {
-  background-color: #181818; /* Green */
+  background-color: #181818; /* grey */
   border: 2px solid #fff;
   color: white;
   padding: 10px 10px;
@@ -83,7 +87,7 @@ padding-left: 800px;
 .button{
     position: relative;
     top: 3px;
-    left: 950px;
+    left: 1050px;
 }
 
 .blackBar{
