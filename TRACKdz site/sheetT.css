@@ -103,8 +103,9 @@ text-align: left;
     font-family: "Cairo", sans-serif;
     letter-spacing:3px;
     text-align: center;
-    padding-top: 45px;
+    padding-top: 26px;
     font-size: 60px;
+
 }
 .text-Suivi{
     font-weight: bold;
@@ -112,11 +113,22 @@ text-align: left;
 .text-C{
     font-family: "Cairo", sans-serif;
     text-align: center;
-     top: 10%;
+     top: 10px;
     font-size: 40px;
 }
 .text-C{
     font-weight: bold;
 margin-block-end: 8px;
 
+}
+.text-P{
+    font-family: "Cairo", sans-serif;
+    text-align: center;
+     top: 10%;
+    font-size: 20px;
+    font-weight: bold;
+margin-block-end: 8px;
+}
+.lines{
+        line-height: 1.3;
 }
