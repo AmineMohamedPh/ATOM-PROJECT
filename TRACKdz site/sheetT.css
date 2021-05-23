@@ -54,7 +54,7 @@ header{
   color: #0088a9
 }
 .nav__links{
-padding-left: 800px;
+padding-left: 600px;
 }
 .nav__links{
     font-family:
@@ -87,7 +87,7 @@ padding-left: 800px;
 .button{
     position: relative;
     top: 3px;
-    left: 1050px;
+    left: 900px;
 }
 
 .blackBar{
